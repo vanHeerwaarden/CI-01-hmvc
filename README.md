@@ -1,6 +1,6 @@
 CI-01-hmvc
 ==========
-basis installatie overeenkomstig wiredesignz Modular eXtentions (MX)
+basis installatie overeenkomstig wiredesignz Modular eXtentions (MX) en david connelly 
 
 > Jerry van Heerwaarden
  
@@ -11,6 +11,7 @@ basis installatie overeenkomstig wiredesignz Modular eXtentions (MX)
 > http://wiredesignz.co.nz/
  
 > https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc
+> DC tutorials dcradionetwork.com
 
 
 Codeigniter HMVC installatie:
