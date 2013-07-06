@@ -3,7 +3,6 @@ CI-01-hmvc
 basis installatie overeenkomstig wiredesignz Modular eXtentions (MX) en david connelly 
 
 > Jerry van Heerwaarden <br/>
- 
 > vanHeerwaarden websites
 
 > http://ellislab.com/codeigniter
