@@ -10,7 +10,7 @@ basis installatie overeenkomstig wiredesignz Modular eXtentions (MX) en david co
 > DC tutorials dcradionetwork.com <br/>
 
 
-Codeigniter HMVC installatie:
+01 Codeigniter HMVC installatie:
 
 1] Schone Codeigniter installatie uitgevoerd <br/>
 2] De $config ['base_url'] correct ingesteld <br/>
