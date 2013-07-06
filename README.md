@@ -2,9 +2,9 @@ CI-01-hmvc
 ==========
 basis installatie overeenkomstig wiredesignz Modular eXtentions (MX)
 
- Jerry van Heerwaarden
+ >> Jerry van Heerwaarden
  
- vanHeerwaarden websites
+ >> vanHeerwaarden websites
 
  http://ellislab.com/codeigniter
  
