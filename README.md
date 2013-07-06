@@ -2,15 +2,15 @@ CI-01-hmvc
 ==========
 basis installatie overeenkomstig wiredesignz Modular eXtentions (MX)
 
- >> Jerry van Heerwaarden
+> Jerry van Heerwaarden
  
- >> vanHeerwaarden websites
+> vanHeerwaarden websites
 
- http://ellislab.com/codeigniter
+> http://ellislab.com/codeigniter
  
- http://wiredesignz.co.nz/
+> http://wiredesignz.co.nz/
  
- https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc
+> https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc
 
 
 Codeigniter HMVC installatie:
